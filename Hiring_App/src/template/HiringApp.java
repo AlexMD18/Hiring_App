@@ -1,10 +1,4 @@
-//Assign 5, HiringApp
 /*
-CIS2168 04 Fall 2019 Data Structures
-Alexandro Drogo
-tuj78444@temple.edu
-Assignment 5
-
 Program Description:
 This program creates an app that can be used to hire and fire people from a company
  */
